@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Ice.Current"/>
+<fullyQualifiedTypeName name="Casio"/>
+<fullyQualifiedTypeName name="Ice.ObjectAdapterDeactivatedException"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="utils._ManagerDisp"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="chat._ChatModeratorOperations"/>
+<fullyQualifiedTypeName name="Client"/>
+<fullyQualifiedTypeName name="chat._ListenerOperations"/>
+<fullyQualifiedTypeName name="chat.ListenerPrxHelper"/>
+<fullyQualifiedTypeName name="Ice.ObjectPrx"/>
+<fullyQualifiedTypeName name="Ice._ObjectAdapterOperationsNC"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="chat.ListenerPrx"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.Lock"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantLock"/>
+<fullyQualifiedTypeName name="Message"/>
+<fullyQualifiedTypeName name="walkieTalkie._UserDisp"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="ListenerI"/>
+<fullyQualifiedTypeName name="Ice.Identity"/>
+<fullyQualifiedTypeName name="Ice.Util"/>
+<fullyQualifiedTypeName name="voting.VoterPrx"/>
+<fullyQualifiedTypeName name="voting.VoteVectorHolder"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="utils.CalculatorVectorHolder"/>
+</qualifiedTypeNameHistroy>

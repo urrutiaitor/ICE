@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Chat.ice&apos; to &apos;chat_v4/src&apos;&#x0A;- Original project: &apos;chat_v3&apos;&#x0A;- Destination element: &apos;chat_v4/src&apos;&#x0A;- Original element: &apos;Chat.ice&apos;" description="Copy file" destination="=chat_v4/src" element1="src/Chat.ice" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1461659116927" units="0" version="1.0"/>
+</session>
